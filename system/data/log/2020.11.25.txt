@@ -1,0 +1,25 @@
+[TYPE]: MYSQL
+[SQL]: select * from `w_cates` where `id`=
+[TIME]: 2020-11-25 14:50:44
+[URI]: /?m=shop&c=myshop
+
+[TYPE]: MYSQL
+[SQL]: select * from `w_cates` where `id`=
+[TIME]: 2020-11-25 15:02:02
+[URI]: /?m=shop&c=myshop
+
+[TYPE]: MYSQL
+[SQL]: select * from `w_cates` where `id`=
+[TIME]: 2020-11-25 15:02:18
+[URI]: /?m=shop&c=myshop
+
+[TYPE]: MYSQL
+[SQL]: select * from `w_cates` where `id`=
+[TIME]: 2020-11-25 15:02:21
+[URI]: /?m=shop&c=myshop
+
+[TYPE]: MYSQL
+[SQL]: select * from `w_cates` where `id`=
+[TIME]: 2020-11-25 15:02:25
+[URI]: /?m=shop&c=myshop
+

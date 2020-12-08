@@ -1,0 +1,5 @@
+[TYPE]: MYSQL
+[SQL]: select * from `w_cates` where `id`=
+[TIME]: 2020-11-18 10:47:39
+[URI]: /?m=shop&c=myshop
+
